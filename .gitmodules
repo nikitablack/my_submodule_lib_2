@@ -1,3 +1,4 @@
 [submodule "submodules/my_submodule_lib"]
 	path = submodules/my_submodule_lib
 	url = git@personal_github:nikitablack/my_submodule_lib.git
+	branch = main
