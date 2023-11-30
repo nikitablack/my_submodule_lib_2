@@ -4,7 +4,7 @@
 
 void bar()
 {
-    constexpr int32_t LIB_VERSION{2};
+    constexpr int32_t LIB_VERSION{4};
 
     std::cout << "My Submodule Lib 2: " << LIB_VERSION << std::endl;
 
